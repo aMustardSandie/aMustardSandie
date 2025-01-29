@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @aMustardSandie
+👋 Hi, @aMustardSandie here. 
 
-- I’m looking to collaborate on agents & algorithmic trading
+Anything & Everything 
+
+
 
 <!---
 aMustardSandie/aMustardSandie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
